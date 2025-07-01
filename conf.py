@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = '123 HP Smart'
 
 
 # The full version, including alpha/beta/rc tags
